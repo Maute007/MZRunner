@@ -7,6 +7,7 @@
     $('.txt-pulse').fadeOut(1000).fadeIn(1000, pulse);
 })();
 
+
 // 2) function validar email send
 function validateForm() {
     var email = $('#email').val();
